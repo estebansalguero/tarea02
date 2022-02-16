@@ -1,0 +1,168 @@
+#encabezado {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 8%;
+    width: 100%;
+    background-color: #496D8D;
+    color: white;
+}
+
+#encabezado h1 {
+    display: inline;
+}
+
+.descripcion {
+    font-size: 18px;
+}
+
+#menu {
+    position: absolute;
+    top: 8%;
+    left: 0;
+    height: 4%;
+    width: 100%;
+    background-color: #9B8030;
+    color: black;
+}
+
+#menu a:visited {
+    color: navy;
+}
+
+#menu a:hover {
+    background: green;
+    color: white;
+}
+
+#lateralBar {
+    position: absolute;
+    top: 12%;
+    left: 0;
+    height: 81%;
+    width: 20%;
+    background-color: #bfac82;
+    color: black;
+    text-indent: 20px;
+}
+
+#contenido {
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    height: 81%;
+    width: 100%;
+    background-color: #ffe8b5;
+    color: black;
+    overflow: auto;
+}
+
+#pieDePagina {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 7%;
+    width: 100%;
+    background-color: #fcad03;
+    color: #333300;
+    text-align: center;
+}
+
+#hamster_ruso{
+    text-indent: 20px;
+}
+
+#hamster_sirio{
+    text-indent: 20px;
+}
+
+
+#encabezadoTabla {
+    font-size: 20px;
+    background-color: #333300;
+    color: white;
+}
+
+#tablaResumen tr {
+    font-size: 25px;
+}
+
+#tablaResumen tr:nth-child(odd) {
+    background-color: #bfac82;
+    color: white;
+}
+
+#tablaResumen tr:nth-child(even) {
+    background-color: white;
+    color: #bfac82;
+}
+
+#contenido_pag2 {
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    height: 81%;
+    width: 100%;
+    background-color: #ffe8b5;
+    color: black;
+    overflow: auto;
+}
+
+#contenido_pag3 {
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    height: 81%;
+    width: 100%;
+    background-color: #ffe8b5;
+    color: black;
+    overflow: auto;
+}
+
+#pag_sonidos{
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    height: 81%;
+    width: 100%;
+    background-color: #ffe8b5;
+    color: black;
+    overflow: auto;
+}
+
+#audio{
+    width: 40%;
+}
+
+#pag_videos{
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    height: 81%;
+    width: 100%;
+    background-color: #ffe8b5;
+    color: black;
+    overflow: auto;
+}
+
+#iframe{
+    position: absolute;
+    top: 12%;
+    left: 20%;
+    height: 81%;
+    width: 80%;
+    background-color: #ffe8b5;
+    color: black;
+    overflow: auto;
+}
+
+#form {
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    height: 81%;
+    width: 100%;
+    background-color: #ffe8b5;
+    color: black;
+    overflow: auto;
+}
